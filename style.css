@@ -1,0 +1,36 @@
+.card {
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border: 4px black solid ;
+    border-radius: 6px;
+    height: 600px;
+  font-family: "Nunito", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  display: none;
+}
+
+.card h2 {
+    text-align: center;
+}
+
+.card img {
+    border: 3px black solid;
+    border-radius: 6px;
+    width: 300px;
+    height: 400px;
+    margin-left: 30px;
+}
+
+.card h3 {
+    display: inline-block;
+margin-left: 60px;
+position: absolute;
+}
+
+.vv {
+display: inline-block;
+margin-top: 60px;
+}
